@@ -1,0 +1,79 @@
+_html_ <html>
+__html__ </html>
+_head_ <head>
+__head__ </head>
+_body_ <body>
+__body__ </body>
+_title_ <title>
+__title__ </title>
+_p_ <p>
+__p__ </p>
+_i_ <i>
+__i__ </i>
+_b_ <b>
+__b__ </b>
+_u_ <u>
+__u__ </u>
+_d_ <del>
+__d__ </del>
+_del_ <del>
+__del__ </del>
+_code_ <code>
+__code__ </code>
+_c_ <centre>
+__c__ </centre>
+_up_ <sup>
+__up__ </sup>
+_down_ <sub>
+__down__ </sub>
+_sup_ <sup>
+__sup__ </sup>
+_sub_ <sub>
+__sub__ </sub>
+_button_ <button>
+__button__ </button>
+_input_ <input+type="text"placeholder="text">
+_pass_ <input+type="password"placeholder="password">
+_textarea_ <textarea+rows="20"cols="20">
+__textarea__ </textarea>
+_break_ <br>
+_lb_ <br>
+_hr_ <hr>
+#########bulma+button+start############
+_bulma_button_success_ <button+class="button+is-success">
+__bulma_button_success__ </button>
+_bulma_button_warning_ <button+class="button+is-warning">
+__bulma_button_warning__ </button>
+_bulma_button_info_ <button+class="button+is-info">
+__bulma_button_info__ </button>
+_bulma_button_danger_ <button+class="button+is-danger">
+__bulma_button_danger__ </button>
+#########bulma+button+end############
+#########bulma+input+start############
+_bulma_input_success_ <input+class="input+is-success"placeholder="Enter">
+_bulma_input_warning_ <input+class="input+is-warning"placeholder="Enter">
+_bulma_input_danger_ <input+class="input+is-danger"placeholder="Enter">
+_bulma_input_info_ <input+class="input+is-info"placeholder="Enter">
+#########bulma+input+end############
+#########bulma+p+title############
+_bulma_title_1_ <p+class="title+is-1">
+__bulma_title_1__ </p>
+_bulma_title_2_ <p+class="title+is-2">
+__bulma_title_2__ </p>
+_bulma_title_3_ <p+class="title+is-3">
+__bulma_title_3__ </p>
+_bulma_title_4_ <p+class="title+is-4">
+__bulma_title_4__ </p>
+_bulma_title_5_ <p+class="title+is-5">
+__bulma_title_5__ </p>
+_bulma_title_6_ <p+class="title+is-6">
+__bulma_title_6__ </p>
+#########bulma+p+end############
+#########bulma+textarea+strat############
+_bulma_textarea_ <textarea+class="textarea">
+__bulma_textarea__ </textarea>
+_bulma_textarea_20x20_ <textarea+class="textarea+is-20x20"rows="20"+cols="20">
+__bulma_textarea_20x20__ </textarea>
+_bulma_textarea_30x30_ <textarea+class="textarea+is-30x30"rows="30"+cols="30">
+__bulma_textarea_30x30__ </textarea>
+#########bulma+textarea+strat############
